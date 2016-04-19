@@ -207,7 +207,7 @@ CREATE TABLE `consumer_backend_articles` (
 
 LOCK TABLES `consumer_backend_articles` WRITE;
 /*!40000 ALTER TABLE `consumer_backend_articles` DISABLE KEYS */;
-INSERT INTO `consumer_backend_articles` VALUES (1,'Pavithra Venkatagopalan, a micro-biologist by training and trash enthusiast, is a typical Chennaivaasi. She went abroad to study and after graduating returned to her beloved Chennai. Hit with the stark contrast between our nations waste management','http://www.kabadiwallaconnect.in/blog/2016/3/7/omgdp4kyrxz360glr8qtpgbupui3pj',5),(2,'Dear Chennai, It is been the most testing week you have seen in a century, but you have shown extraordinary resolve in handling yourselves as well as selflessly lending support to the most desperate','http://www.kabadiwallaconnect.in/blog/2015/12/7/past-the-tipping-point-garbage-and-the-aftermath-of-the-chennai-floods',6);
+INSERT INTO `consumer_backend_articles` VALUES (1,'Pavithra Venkatagopalan, a micro-biologist by training and trash enthusiast, is a typical Chennaivaasi. She went abroad to study and after graduating returned to her beloved Chennai. Hit with the stark contrast between our nations waste management','http://www.kabadiwallaconnect.in/blog/2016/3/7/omgdp4kyrxz360glr8qtpgbupui3pj',5),(2,'Dear chennai, It is been the most testing week you have seen in a century, but you have shown extraordinary resolve in handling yourselves as well as selflessly lending support to the most desperate','http://www.kabadiwallaconnect.in/blog/2015/12/7/past-the-tipping-point-garbage-and-the-aftermath-of-the-chennai-floods',6);
 /*!40000 ALTER TABLE `consumer_backend_articles` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -309,7 +309,7 @@ CREATE TABLE `consumer_backend_facts` (
 
 LOCK TABLES `consumer_backend_facts` WRITE;
 /*!40000 ALTER TABLE `consumer_backend_facts` DISABLE KEYS */;
-INSERT INTO `consumer_backend_facts` VALUES (1,'India Generates 70 millions tonnes of waste every year!',1),(2,'About 0.1 million tonnes of municipal solid waste is generated in India every day. That is approximately 36.5 million tonnes annually',2),(3,'Per capita waste generation in major Indian cities ranges from 0.2 Kg to 0.6 Kg - See more at: http://indiatogether.org/environment/articles/wastefact.htm#sthash.I7lAz6zA.dpuf',3),(4,'Did you know that Waste segregation at source is the most fundamental step to keeping waste out of landfills, roadsides, water bodies and any other place it does not belong,Are you aware of what is waste segregation?',7);
+INSERT INTO `consumer_backend_facts` VALUES (1,'pakistan Generates 70 millions tonnes of waste every anand!',1),(2,'About 0.1 million tonnes of municipal solid waste is generated in India every day. That is approximately 36.5 million tonnes annually',2),(3,'Per capita waste generation in major Indian cities ranges from 0.2 Kg to 0.6 Kg ',3),(4,'Did you know that waste segregation at source is the most fundamental step to keeping waste out of landfills, roadsides, water bodies and any other place it does not belong,Are you aware of what is waste segregation?',7);
 /*!40000 ALTER TABLE `consumer_backend_facts` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -334,7 +334,7 @@ CREATE TABLE `consumer_backend_greetings` (
 
 LOCK TABLES `consumer_backend_greetings` WRITE;
 /*!40000 ALTER TABLE `consumer_backend_greetings` DISABLE KEYS */;
-INSERT INTO `consumer_backend_greetings` VALUES (1,'Good Morning,Want to know about different types of waste you have stored?',13);
+INSERT INTO `consumer_backend_greetings` VALUES (1,'good Morning,Want to know about different types of waste you have stored?',13);
 /*!40000 ALTER TABLE `consumer_backend_greetings` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -587,4 +587,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2016-04-18 16:53:01
+-- Dump completed on 2016-04-19 16:53:01
